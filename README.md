@@ -134,6 +134,6 @@
 - Software development company.
 - **Role:** Created a WordPress custom template using PHP, HTML, CSS and JavaScript.
 
-- ##### Ali Younis Portfolio
+##### Ali Younis Portfolio
 - UI/UX designer portfolio.
 - **Role:** Created a WordPress custom template using PHP, HTML, CSS and JavaScript.
