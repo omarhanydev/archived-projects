@@ -4,7 +4,7 @@
 
 ##### Esmaa Radio
 - Web based Arabic radio with visitor messages to radio host.
-- **Role:** Create a WordPress custom template with a toggle switch for admin to switch on or off visitor messages for current listeners using mix of PHP, HTML, CSS, JavaScript and AJAX.
+- **Role:** Created a WordPress custom template with a toggle switch for admin to switch on or off visitor messages for current listeners using mix of PHP, HTML, CSS, JavaScript and AJAX.
 
 ##### Piochem
 - A leading Egyptian company in laboratory chemicals.
