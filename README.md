@@ -10,6 +10,10 @@
 - A leading Egyptian company in laboratory chemicals.
 - **Role:** Created a WordPress custom template and used WooCommerce plugin with extra custom fields and custom post types and created a template using mix of PHP, HTML, CSS, JavaScript and AJAX.
 
+##### UpToGames
+- Portal to download free games for windows.
+- **Role:** Created a WordPress custom template with extra custom fields and custom post types and created a template using mix of PHP, HTML, CSS, JavaScript and AJAX.
+
 ##### MyMall Qatar
 - Mall Landing page located in Qatar.
 - **Role:** Created a landing page using HTML, CSS and JavaScript.
