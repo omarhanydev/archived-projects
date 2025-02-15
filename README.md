@@ -2,6 +2,10 @@
 - Product and service user testimonials social network.
 - **Role:** Created a back-end admin panel using PHP, Laravel and front-end user interface with authentication and CRUD pages using HTML, CSS and JavaScript.
 
+##### Offeratko Jordan.
+- Mobile Application for Jordan offers in malls, electronic stores, and tourism agencies.
+- **Role:** Created front-end pages using HTML, CSS and JavaScript and collaborated with back-end developer to create dynamic website.
+
 ##### Esmaa Radio
 - Web based Arabic radio with visitor messages to radio host.
 - **Role:** Created a WordPress custom template with a toggle switch for admin to switch on or off visitor messages for current listeners using mix of PHP, HTML, CSS, JavaScript and AJAX.
