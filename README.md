@@ -10,6 +10,14 @@
 - Web based Arabic radio with visitor messages to radio host.
 - **Role:** Created a WordPress custom template with a toggle switch for admin to switch on or off visitor messages for current listeners using mix of PHP, HTML, CSS, JavaScript and AJAX.
 
+##### Polti Middle East
+- Polti household appliances are used to clean the home, as well as irons with boilers.
+- **Role:** Created a WordPress website and with extra custom features using mix of PHP, HTML, CSS, JavaScript and AJAX.
+
+##### Modern Doors
+- Company Specialized in Automatic Doors with years of experience.
+- **Role:** Created a WordPress website and with extra custom features using mix of PHP, HTML, CSS, JavaScript and AJAX.
+  
 ##### Piochem
 - A leading Egyptian company in laboratory chemicals.
 - **Role:** Created a WordPress custom template and used WooCommerce plugin with extra custom fields and custom post types and created a template using mix of PHP, HTML, CSS, JavaScript and AJAX.
